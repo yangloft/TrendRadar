@@ -103,7 +103,6 @@ platforms:
     name: "澎湃新闻"
   - id: "cls-hot"
     name: "财联社热门"
-  - id: "ifeng"
-    name: "凤凰网"
+
   - id: "weibo"
     name: "微博"
