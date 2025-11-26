@@ -117,8 +117,7 @@ platforms:
     name: "抖音"
 
   # === 科技类平台 ===
-  - id: "ithome"
-    name: "IT之家"
+
   - id: "juejin"
     name: "掘金"
   - id: "github"
